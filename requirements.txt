@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langgraph
+langchain-mcp-adapters
+fastmcp
+pydantic
+python-dotenv
+rich
